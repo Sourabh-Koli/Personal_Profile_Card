@@ -21,7 +21,7 @@ border: var(--color1) solid 5px;
 }
 
 main{
-	margin: auto 15%;
+	margin: auto 10%;
 	background-color: var(--color2);
 	padding: 10px;
 	border-radius: 20px;
